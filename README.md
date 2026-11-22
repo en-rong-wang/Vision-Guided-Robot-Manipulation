@@ -12,7 +12,9 @@ Built an automated pick-and-place system that sorts milk and lemon candies using
 
 
 ### Experimental Demonstration
-https://github.com/user-attachments/assets/9c4fbc9c-b827-4ead-9c4f-ff0ff7c4e639
+https://github.com/user-attachments/assets/7f9b3000-ce5c-4464-952e-bd925ff56dcd
+
+
 
 
 
