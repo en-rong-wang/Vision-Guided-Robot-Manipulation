@@ -14,7 +14,18 @@ Built an automated pick-and-place system that sorts milk and lemon candies using
 ### Experimental Demonstration
 https://github.com/user-attachments/assets/7f9b3000-ce5c-4464-952e-bd925ff56dcd
 
+## Gemini-Powered Object Recognition with OpenCV Foreground Extraction
 
+Developed an object recognition pipeline that uses OpenCV to extract foreground objects from camera images and sends the extracted regions to a multimodal model through the Gemini API. The model returns semantic descriptions of the observed objects, enabling recognition across different object categories without training or fine-tuning a task-specific recognition model.
+
+https://github.com/user-attachments/assets/5da7013a-e2a9-4a0d-a44d-53191cf0349a
+
+
+## Gemini-Assisted Vision-Guided Grasping with a TM5 Collaborative Robot
+
+Extended the recognition pipeline to robotic grasping by combining Gemini-based object identification with vision-based object localization. A calibration board establishes the mapping between image coordinates and the robot-base coordinate frame, allowing the Techman TM5 collaborative robot to move to the identified object's location and execute a grasp.
+
+https://github.com/user-attachments/assets/39737258-43ca-44bf-8ccb-7fc759fdc8d3
 
 
 
